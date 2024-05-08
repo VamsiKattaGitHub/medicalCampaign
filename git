@@ -1,0 +1,7 @@
+// git init
+git add index.hmtl //for one file
+git add . //for all files
+git commit -m "first project"
+
+Repo url-->Where all the files are kept or included of any project
+Host url-->Link which is shared to view the project
